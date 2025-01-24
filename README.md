@@ -1,6 +1,6 @@
 # Touch Utility
 
-A simple C# command-line utility that replicates the functionality of the Unix `touch` command. It creates a file in the current directory or updates the last modified timestamp if the file already exists.
+A simple C# command-line utility that replicates the functionality of the Unix `touch` command. It creates a file in the current directory.
 
 ## Features
 
